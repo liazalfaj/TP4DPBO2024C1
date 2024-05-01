@@ -55,3 +55,10 @@ Berisi file HTML dengan placeholder yang akan diisi dengan data sebenarnya saat 
 ## Dokumentasi
 https://github.com/liazalfaj/TP4DPBO2024C1/assets/114666885/fe73df5e-ce97-4e99-991d-ae1f563709c6
 
+![Screenshot 2024-05-01 235035](https://github.com/liazalfaj/TP4DPBO2024C1/assets/114666885/f7018b8c-9fd4-4ee7-b6a1-6c6d67b79021)
+
+![image](https://github.com/liazalfaj/TP4DPBO2024C1/assets/114666885/e561affa-44e9-409f-872a-375514134557)
+
+![image](https://github.com/liazalfaj/TP4DPBO2024C1/assets/114666885/8fbf7a2d-e2fa-4f0e-a8ab-cc79e2b68cd2)
+
+
